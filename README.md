@@ -5,8 +5,8 @@
 
 ### 首页
 
-![Image text](https://drive.google.com/file/d/1J6_zVD4Y2_MnsmoUTOkMUP3rj9Zu6nrZ/view?usp=sharing)
-![Image text](https://drive.google.com/file/d/1wrq6Zq-DZAnwijBo8cLMSMtxCdHrEN1E/view?usp=sharing)
+![Image text](https://github.com/Ebenezerting/vue-redenvelope-activities/raw/master/screenshots/image1.png)
+![Image text](https://github.com/Ebenezerting/vue-redenvelope-activities/raw/master/screenshots/image2.png)
 
 
 
